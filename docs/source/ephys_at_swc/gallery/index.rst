@@ -27,8 +27,6 @@ SpikeInterface Preprocessing and Sorting
 
 TODO: Dammy, Ivana
 
-
-
 .. raw:: html
 
     <div class="sphx-glr-thumbnails">

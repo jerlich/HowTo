@@ -6,7 +6,7 @@
 
 Computation times
 =================
-**00:00.000** total execution time for 1 file **from ephys_at_swc\gallery**:
+**00:00.000** total execution time for 1 file **from ephys_at_swc/gallery**:
 
 .. container::
 
@@ -32,6 +32,6 @@ Computation times
    * - Example
      - Time
      - Mem (MB)
-   * - :ref:`sphx_glr_ephys_at_swc_gallery_examplesdfsdfsdf_1.py` (``examplesdfsdfsdf_1.py``)
+   * - :ref:`sphx_glr_ephys_at_swc_gallery_sara_mederos.py` (``sara_mederos.py``)
      - 00:00.000
      - 0.0

@@ -1,5 +1,6 @@
 :orphan:
 
+:orphan:
 Example Pipelines
 ==================
 
@@ -26,6 +27,8 @@ SpikeInterface Preprocessing and Sorting
 ----------------------------------------
 
 TODO: Dammy, Ivana
+
+
 
 .. raw:: html
 

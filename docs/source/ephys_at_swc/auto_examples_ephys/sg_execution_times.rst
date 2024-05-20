@@ -1,12 +1,12 @@
 
 :orphan:
 
-.. _sphx_glr_ephys_at_swc_gallery_sg_execution_times:
+.. _sphx_glr_ephys_at_swc_auto_examples_ephys_sg_execution_times:
 
 
 Computation times
 =================
-**00:00.000** total execution time for 1 file **from ephys_at_swc/gallery**:
+**00:00.000** total execution time for 1 file **from ephys_at_swc/auto_examples_ephys**:
 
 .. container::
 
@@ -32,6 +32,6 @@ Computation times
    * - Example
      - Time
      - Mem (MB)
-   * - :ref:`sphx_glr_ephys_at_swc_gallery_sara_mederos.py` (``sara_mederos.py``)
+   * - :ref:`sphx_glr_ephys_at_swc_auto_examples_ephys_sara_mederos.py` (``sara_mederos.py``)
      - 00:00.000
      - 0.0

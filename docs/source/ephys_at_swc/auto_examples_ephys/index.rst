@@ -42,10 +42,10 @@ TODO: Dammy, Ivana
 
 .. only:: html
 
-  .. image:: /ephys_at_swc/gallery/images/thumb/sphx_glr_sara_mederos_thumb.png
+  .. image:: /ephys_at_swc/auto_examples_ephys/images/thumb/sphx_glr_sara_mederos_thumb.png
     :alt:
 
-  :ref:`sphx_glr_ephys_at_swc_gallery_sara_mederos.py`
+  :ref:`sphx_glr_ephys_at_swc_auto_examples_ephys_sara_mederos.py`
 
 .. raw:: html
 
@@ -63,7 +63,7 @@ TODO: Dammy, Ivana
 .. toctree::
    :hidden:
 
-   /ephys_at_swc/gallery/sara_mederos
+   /ephys_at_swc/auto_examples_ephys/sara_mederos
 
 
 .. only:: html
@@ -72,11 +72,11 @@ TODO: Dammy, Ivana
 
     .. container:: sphx-glr-download sphx-glr-download-python
 
-      :download:`Download all examples in Python source code: gallery_python.zip </ephys_at_swc/gallery/gallery_python.zip>`
+      :download:`Download all examples in Python source code: auto_examples_ephys_python.zip </ephys_at_swc/auto_examples_ephys/auto_examples_ephys_python.zip>`
 
     .. container:: sphx-glr-download sphx-glr-download-jupyter
 
-      :download:`Download all examples in Jupyter notebooks: gallery_jupyter.zip </ephys_at_swc/gallery/gallery_jupyter.zip>`
+      :download:`Download all examples in Jupyter notebooks: auto_examples_ephys_jupyter.zip </ephys_at_swc/auto_examples_ephys/auto_examples_ephys_jupyter.zip>`
 
 
 .. only:: html

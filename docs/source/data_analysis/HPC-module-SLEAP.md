@@ -18,11 +18,19 @@
 ## Prerequisites
 
 ### Access to the HPC cluster
-Verify that you can access HPC gateway node (typing your `<SWC-PASSWORD>` both times when prompted):
+Verify that you can access HPC gateway node.
+
+From `eduroam` or from outside the SWC network (typing your `<SWC-PASSWORD>` both times when prompted):
 ```{code-block} console
 $ ssh <SWC-USERNAME>@ssh.swc.ucl.ac.uk
 $ ssh hpc-gw1
 ```
+
+From inside the SWC network:
+```{code-block} console
+$ ssh <SWC-USERNAME>@hpc-gw1.hpc.swc.ucl.ac.uk
+```
+
 To learn more about accessing the HPC via SSH, see the [relevant how-to guide](ssh-cluster-target).
 
 ### Access to the SLEAP module
